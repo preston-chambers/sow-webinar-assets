@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Paid Webinar//Workshop//EN
+BEGIN:VEVENT
+UID:deven-paid-webinar-2026-11-15@sourceofwealth
+DTSTAMP:20261105T013233Z
+DTSTART:20261115T200000Z
+DTEND:20261115T220000Z
+SUMMARY:Deven Seenath Live YouTube Workshop
+DESCRIPTION:Live YouTube workshop with Deven Seenath. Your join link is in 
+ your confirmation email.
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Deven Seenath Live YouTube Workshop
+END:VALARM
+END:VEVENT
+END:VCALENDAR
